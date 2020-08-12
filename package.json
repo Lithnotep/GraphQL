@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Lithnotep/GraphQL/issues"
   },
-  "homepage": "https://github.com/Lithnotep/GraphQL#readme"
+  "homepage": "https://github.com/Lithnotep/GraphQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  }
 }
